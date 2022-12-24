@@ -10,9 +10,9 @@
 ## Application Images
 <table>
   <tr>
-	<td> <img src="https://github.com/vinodpatildev/Calculator/blob/master/images/image_1.jpg" width="250" /> </td>
-	<td> <img src="https://github.com/vinodpatildev/Calculator/blob/master/images/image_2.jpg" width="250" /> </td>
-	<td> <img src="https://github.com/vinodpatildev/Calculator/blob/master/images/image_3.jpg" width="250" /> </td>
+	<td> <img src="https://github.com/vinodpatildev/Calculator/blob/master/screenshots%20of%20app/image_1.jpg" width="250" /> </td>
+	<td> <img src="https://github.com/vinodpatildev/Calculator/blob/master/screenshots%20of%20app/image_2.jpg" width="250" /> </td>
+	<td> <img src="https://github.com/vinodpatildev/Calculator/blob/master/screenshots%20of%20app/image_3.jpg" width="250" /> </td>
   </tr>
 </table>
 
