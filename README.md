@@ -8,12 +8,13 @@
 2]Kotlin
 
 ## Application Images
-
-![page_1](https://github.com/vinodpatildev/Calculator/blob/master/images/image_1.jpg)
-
-![page_2](https://github.com/vinodpatildev/Calculator/blob/master/images/image_2.jpg)
-
-![page_3](https://github.com/vinodpatildev/Calculator/blob/master/images/image_3.jpg)
+<table>
+  <tr>
+	<td> <img src="https://github.com/vinodpatildev/Calculator/blob/master/images/image_1.jpg" width="250" /> </td>
+	<td> <img src="https://github.com/vinodpatildev/Calculator/blob/master/images/image_2.jpg" width="250" /> </td>
+	<td> <img src="https://github.com/vinodpatildev/Calculator/blob/master/images/image_3.jpg" width="250" /> </td>
+  </tr>
+</table>
 
 
 
